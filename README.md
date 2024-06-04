@@ -1,6 +1,6 @@
-# Advent of CSS 2022 - Day 12 - Rock, Paper, Scissors
+# Advent of CSS 2022 - Day 13 - Custom Modal
 
-This is my submission for day 12 of the [Advent of CSS](https://www.adventofcss.com/) challenge.
+This is my submission for day 13 of the [Advent of CSS](https://www.adventofcss.com/) challenge.
 
 I have used the Figma layout from the starter files to reproduce the design as closely as possible keeping in mind the functionality of the app, which I intend to implement in a separate repository for the corresponding [Advent of JS](https://www.adventofjs.com/) challenge.
 
